@@ -13,7 +13,7 @@ $temp = $line[1];
 		p,h1,h2,h3,h4,h5,h6{
 			font-family: futura;
 			font-size: 300%;
-			color:#FFF;
+			color:#F9F9F9;
 		}
 		
 		body{
