@@ -6,6 +6,7 @@ $time = $line[0];
 $temp = $line[1];
 
 ?>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>Weather in Skibbereen</title>
