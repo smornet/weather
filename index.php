@@ -32,7 +32,7 @@ $temp = $line[1];
 		<h3>It is currently</h3>
 		<h1><?php
 		echo $temp;
-		?>°</h1>
+		?>&deg;</h1>
 		<h3>in Skibbereen</h3>
 		<p>Most recently checked at <?php
 		echo $time;
