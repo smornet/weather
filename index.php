@@ -13,10 +13,17 @@ $temp = $line[1];
 	<style>
 		p,h1,h2,h3,h4,h5,h6{
 			font-family: futura;
-			font-size: 300%;
 			color:#F9F9F9;
 		}
-		
+		p{
+			font-size:16pt;
+		}
+		h1{
+			font-size: 30pt;
+		}
+		h2{
+			font-size: 24pt;
+		}
 		body{
 			background: #3b5998;
 		}
