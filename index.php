@@ -19,10 +19,10 @@ $temp = $line[1];
 			font-size:16pt;
 		}
 		h1{
-			font-size: 30pt;
+			font-size: 35pt;
 		}
 		h2{
-			font-size: 24pt;
+			font-size: 26pt;
 		}
 		body{
 			background: #3b5998;
@@ -36,11 +36,11 @@ $temp = $line[1];
 </head>
 <body>
 	<div>
-		<h3>It is currently</h3>
+		<h2>It is currently</h2>
 		<h1><?php
 		echo $temp;
 		?>&deg;</h1>
-		<h3>in Skibbereen</h3>
+		<h2>in Skibbereen</h2>
 		<p>Most recently checked at <?php
 		echo $time;
 		?></p>
