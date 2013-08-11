@@ -16,7 +16,7 @@ $temp = $line[1];
 			color:#F9F9F9;
 		}
 		p{
-			font-size:16pt;
+			font-size:12pt;
 		}
 		h1{
 			font-size: 35pt;
